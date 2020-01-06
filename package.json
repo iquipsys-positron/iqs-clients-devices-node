@@ -1,6 +1,6 @@
 {
     "name": "iqs-clients-devices-node",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Conceptual Vision Consulting LLC",
     "description": "Node.js client sdk for devices microservice",
     "contributors": [
@@ -52,6 +52,6 @@
         "restify": "^4.3.0",
         "chai": "*",
         "mocha": "*",
-        "iqs-services-devices-node": "^0.1.0"
+        "iqs-services-devices-node": "^1.0.0"
     }
 }
